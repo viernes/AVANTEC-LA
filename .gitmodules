@@ -1,0 +1,4 @@
+[submodule "xmarts/add_tariff_stock_landed_cost"]
+	path = xmarts/add_tariff_stock_landed_cost
+	url = git@github.com:xmarts/add_tariff_stock_landed_cost.git
+	branch = master
