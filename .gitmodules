@@ -1,6 +1,0 @@
-[submodule "Reprotes_Avantec"]
-	url = https://github.com/xmarts/Reprotes_Avantec.git
-[submodule "xmarts/add_tariff_stock_landed_cost"]
-	url = https://github.com/xmarts/add_tariff_stock_landed_cost.git
-[submodule "xmarts/no_purchase_rule"]
-	url = https://github.com/xmarts/no_purchase_rule.git
