@@ -10,3 +10,6 @@
 	path = xmarts/no_purchase_rule
 	url = git@github.com:xmarts/no_purchase_rule.git
 	branch = master
+[submodule "avantec_inherit_to_invoice"]
+	path = avantec_inherit_to_invoice
+	url = git@gitlab.com:xmarts/avantec_inherit_to_invoice.git
